@@ -101,7 +101,10 @@ for (let i = 0; i <= n; i++){
     } 
 }
 console.log("3 soni "+ n + " gacha bo'lgan sonlardan " + n3 + " tasiga bo'linadi. " + "Ular: " + arr3)
-console.log("5 soni "+ n + " gacha bo'lgan sonlardan " + n5 + " tasiga bo'linadi. " + "Ular: " + arr5)
+console.log("5 soni "+ n + " gacha bo'lgan sonlardan " + n5 + " tasiga bo'linadi. " + "Ular: " +arr5) 
+
+
+
 
 
 
